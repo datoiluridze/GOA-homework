@@ -1,0 +1,2 @@
+print("gavicani:davit janashia, zura iluridze, tazo Gogishvili, nika chunashvili, nikusha doxnadze")
+print("ras vfiqrob goaze:chemi azrit goaze uketes akademiashi adamiani ver sheva msoflios mandzilze radgan mentorebi da razmis liderebi ise kargad xsnian gakvetils rom shansi araa rom ver mixvde rodesac pirveli gakvetili chatarda da vusmendi mivxvdi ro amaze kargi akademia ar iyo saqartveloshi magalitad tu kargad iswavli mini lideric shegilia gaxde an saertod sheni razmis lideri gaxde amis mets ver vwer iseti magari akademiaa rom sityvebi ar myofnis.")

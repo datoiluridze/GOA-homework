@@ -1,0 +1,7 @@
+name=input('whats your name?: ')
+print('hello',name)
+age=input('whats your age?: ')
+print('age:',age)
+hight=input('how tall are you?: ')
+print('hight:',hight)
+boolean=input('True or False? : ')
