@@ -1,0 +1,47 @@
+.erti {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: aqua;
+}
+
+.ori {
+    font-family: cursive;
+    color: #3C3D37;
+    font-weight: 500;
+}
+
+.sami {
+    font-family: sans-serif;
+    color: #e074e0;
+    font-weight: 200;
+}
+
+.otxi {
+    font-family: 'Courier New', Courier, monospace;
+    color: #B8001F;
+    font-weight: 500;
+}
+
+.xuti {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #46c786;
+    font-weight: 800;
+}
+
+.eqvsi {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #507687;
+    font-weight: 300;
+}
+
+.shvidi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #384B70;
+    font-weight: 500;
+}
+
+.rva {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #a3c014;
+    font-weight: 500;
+}
