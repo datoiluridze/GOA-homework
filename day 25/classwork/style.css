@@ -1,0 +1,111 @@
+.hover-bg {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hover-bg:hover {
+    background-color: #2980b9;
+}
+
+.scale-hover {
+    width: 150px;
+    height: 150px;
+    background-color: #e74c3c;
+    transition: transform 0.3s ease;
+    border-radius: 140px;
+    margin-top: 20px;
+}
+
+.scale-hover:hover {
+    transform: scale(1.1);
+}
+
+.text-hover {
+    font-size: 24px;
+    color: #2c3e50;
+    transition: color 0.3s ease;
+}
+
+.text-hover:hover {
+    color: #8e44ad;
+}
+
+a {
+    color: blue; /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make link bold */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+a:hover {
+    color: darkorange; /* Change color on hover */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+nav a {
+    color: teal; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px; /* Padding around links */
+    display: inline-block; /* Make links block-like for padding */
+}
+
+nav a:hover {
+    background-color: lightgray; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+nav a:link {
+    color: teal; /* Unvisited link color */
+    text-decoration: none; /* No underline */
+    padding: 10px; /* Padding around links */
+    display: inline-block; /* Make links block-like for padding */
+}
+
+nav a:visited {
+    color: darkslategray; /* Visited link color */
+    text-decoration: underline; /* Underline for visited links */
+}
+
+nav a:hover {
+    background-color: lightgray; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}
+.hover-button {
+    background-color: #454b4e; /* Initial background color */
+    color: white;              /* Text color */
+    padding: 10px 20px;       /* Padding */
+    border: none;             /* No border */
+    border-radius: 5px;      /* Rounded corners */
+    cursor: pointer;          /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+    margin-top: 20px;
+}
+
+.hover-button:hover {
+    background-color: #06722a; /* Background color on hover */
+}
+
+.hover-image {
+    width: 300px;              /* Initial width */
+    height: auto;             /* Maintain aspect ratio */
+    transition: transform 0.3s; /* Smooth transition */
+}
+
+.hover-image:hover {
+    transform: scale(1.1);    /* Scale up on hover */
+}
+

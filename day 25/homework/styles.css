@@ -1,0 +1,63 @@
+.rame {
+    display: flex;
+    padding: 10px 20px;
+    background: green;
+    border: 2px solid green;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px black;
+    text-decoration-line: none;
+    font-size: 16px;
+    transition: 0.5s;
+    margin-right: 800px;
+}
+
+.active{
+    background-color: chartreuse;
+}
+
+.rame:hover {
+    background-color: blue;   
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: arial;
+    font-weight: bold;
+    transition: 0.4,ease-in-out;
+}
+
+/* unvisited link */
+a:link {
+    color: gray;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover{
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
